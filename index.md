@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
 ---
 
-Welcome to DEVolver.
+![DEVolver title image]({{site.url}}/docs/assets/images/devolver_title.webp)
