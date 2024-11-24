@@ -1,4 +1,4 @@
 ---
 ---
 
-![DEVolver title image]({{site.url}}/assets/images/devolver_title.webp)
+![DEVolver title image]({{site.url}}/assets/images/devolver.png)
