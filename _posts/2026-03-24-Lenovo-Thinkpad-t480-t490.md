@@ -16,7 +16,7 @@ One solution would be to just buy a newer MacBook with more memory and a larger 
 
 That's where my other infatuation (pretending I know Linux) brought me to buying a 7+ year old Lenovo Thinkpad.
 
-If you Google Linux at all you'll be inundated with articles and videos touting the T480 as the ultimate Linux machine. They're old, but have a cult following for their repairability, great keyboard, and out-of-the-box Linux compatibility. They're also commonly found for under $150 on eBay.
+If you Google Linux at all you'll be inundated with articles and videos touting the T480 as the ultimate Linux machine. There are tons of videos like [this one](https://youtu.be/kiGibwaOitQ?si=SZ0q03xui-4tZkYd) hyping it up. They're old, but have a cult following for their repairability, great keyboard, and out-of-the-box Linux compatibility. They're also commonly found for under $150 on eBay. 
 
 ### The Hunt
 
@@ -48,4 +48,4 @@ On top of all that, Fedora is super clean and snappy. I installed some battery m
 
 ### Conclusion
 
-I think everyone should get one of these things. They're cheap and abundant on eBay, they have great keyboards, and Linux rocks.
+I think everyone should get one of these things. They're cheap and abundant on eBay, they have great keyboards, and Linux rocks. And you don't need to fixate on the T480 — newer ThinkPads like the T490 or T14 are just as good, if not better, and can be found for similar prices.
